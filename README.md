@@ -13,29 +13,29 @@ It covers **Supervised Learning** algorithms such as:
 
 ## 📂 Project Structure
 
+
+```plaintext
 ML_algorithm_implementation/
 │
-├── models/
-│ └── knn_naivebayes_decisiontree.py # KNN, Gaussian Naive Bayes, Decision Tree implementation
-
+├── models/  
+│   └── knn_naivebayes_decisiontree.py   # KNN, Gaussian Naive Bayes, Decision Tree implementation
 │
 ├── naive_bayes/
-│ └── naive_bayes_variants.py # Gaussian, Multinomial, and Bernoulli Naive Bayes from scratch
-
+│   └── naive_bayes_variants.py          # Gaussian, Multinomial, and Bernoulli Naive Bayes from scratch
 │
-├── main.py # Contains Linear Regression, Logistic Regression, Decision Tree, Naive Bayes (spam dataset)
-
+├── main.py                              # Contains Linear Regression, Logistic Regression, Decision Tree, Naive Bayes (spam dataset)
 │
-├── datasets/ # Datasets used in the project
-│ ├── BostonHousing.csv
-│ ├── advertising.csv
-│ ├── spam.csv
-│ ├── play_tennis.csv
-│ ├── 50_Startups.csv
+├── datasets/                            # Datasets used in the project
+│   ├── BostonHousing.csv
+│   ├── advertising.csv
+│   ├── spam.csv
+│   ├── play_tennis.csv
+│   ├── 50_Startups.csv
 │
 └── README.md
 
 
+```
 
 ---
 
