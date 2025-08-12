@@ -17,11 +17,14 @@ ML_algorithm_implementation/
 │
 ├── models/
 │ └── knn_naivebayes_decisiontree.py # KNN, Gaussian Naive Bayes, Decision Tree implementation
+
 │
 ├── naive_bayes/
 │ └── naive_bayes_variants.py # Gaussian, Multinomial, and Bernoulli Naive Bayes from scratch
+
 │
 ├── main.py # Contains Linear Regression, Logistic Regression, Decision Tree, Naive Bayes (spam dataset)
+
 │
 ├── datasets/ # Datasets used in the project
 │ ├── BostonHousing.csv
@@ -133,8 +136,6 @@ ML_algorithm_implementation/
     ```
 
 
-    ```
-
 ## 📷 Visualizations
 
 The repository includes:
@@ -142,7 +143,4 @@ The repository includes:
 - Decision tree visualization
 - Confusion matrices (heatmaps)
 - Comparative model evaluation
-
-
-    ```
 
